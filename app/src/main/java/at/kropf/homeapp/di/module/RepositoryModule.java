@@ -1,7 +1,5 @@
 package at.kropf.homeapp.di.module;
 
-import android.content.Context;
-
 import javax.inject.Singleton;
 
 import at.kropf.homeapp.data.database.AppDatabase;

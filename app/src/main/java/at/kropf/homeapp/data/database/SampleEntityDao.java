@@ -2,6 +2,7 @@ package at.kropf.homeapp.data.database;
 
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Query;
+
 import at.kropf.homeapp.data.Config;
 import at.kropf.homeapp.data.model.SampleEntity;
 

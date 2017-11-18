@@ -5,7 +5,6 @@ import android.arch.lifecycle.ViewModel;
 
 import javax.inject.Inject;
 
-import at.kropf.homeapp.di.ViewModelFactory;
 import at.kropf.homeapp.di.component.SampleComponent;
 import at.kropf.homeapp.repo.SampleRepository;
 

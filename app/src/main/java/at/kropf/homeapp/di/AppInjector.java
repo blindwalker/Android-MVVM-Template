@@ -24,9 +24,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 
 import at.kropf.homeapp.App;
-import at.kropf.homeapp.di.component.AppComponent;
 import at.kropf.homeapp.di.component.DaggerAppComponent;
-import at.kropf.homeapp.di.component.SampleComponent;
 import dagger.android.AndroidInjection;
 import dagger.android.support.AndroidSupportInjection;
 import dagger.android.support.HasSupportFragmentInjector;

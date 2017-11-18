@@ -5,9 +5,7 @@ import android.arch.lifecycle.Lifecycle;
 import javax.inject.Singleton;
 
 import at.kropf.homeapp.di.module.AppModule;
-import at.kropf.homeapp.di.module.HttpModule;
 import at.kropf.homeapp.di.module.RepositoryModule;
-import at.kropf.homeapp.repo.SampleRepository;
 import at.kropf.homeapp.view.SampleViewModel;
 import dagger.Component;
 @Singleton
